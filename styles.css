@@ -1,0 +1,28 @@
+/* Universal */
+body{
+    margin: 0px;
+    background-color: black;
+}
+
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.nav_white{
+    text-decoration: none;
+    color: white;
+    font-family: "Sofia", sans-serif;
+}
+
+/* Nav bar elements */
+#nav_bar{
+    display:flex;
+    list-style-type: none;
+    margin: auto;
+    background-color: black;
+}
+
+.nav_element{
+    margin: auto;
+    padding: 10px;
+}
