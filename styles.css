@@ -7,11 +7,12 @@ body{
 
 /*Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
 
 .nav_white{
     text-decoration: none;
     color: white;
-    font-family: "Sofia", sans-serif;
+    font-family: "Afacad Flux", sans-serif;
 }
 
 /* Nav bar elements */
