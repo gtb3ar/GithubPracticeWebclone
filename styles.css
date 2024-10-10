@@ -1,5 +1,5 @@
 /* Universal */
-body{
+body {
     margin: 0px;
     background-color: black;
 }
@@ -9,25 +9,25 @@ body{
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
 
-.nav_white{
+.nav_white {
     text-decoration: none;
     color: white;
     font-family: "Afacad Flux", sans-serif;
 }
 
 /* Nav bar elements */
-#nav_bar{
-    display:flex;
+#nav_bar {
+    display: flex;
     list-style-type: none;
     margin: auto;
     background-color: black;
 }
 
-.nav_img{
+.nav_img {
     max-width: 23px;
 }
 
-.nav_element{
+.nav_element {
     margin: auto;
     padding: 15px;
 }
