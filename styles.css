@@ -4,16 +4,16 @@
 
 button {
     padding: 10px 15px;
-    border-radius: 10px
+    border-radius: 15px
 }
 
-button .filled {
+.filled {
     color: white;
     background-color: blue;
     border-color: black;
 }
 
-button .inverted-fill {
+.inverted-fill {
     color: blue;
     background-color: white;
     border-color: blue;
@@ -23,6 +23,7 @@ button .inverted-fill {
 body {
     margin: 0px;
     background-color: black;
+    color: white
 }
 
 .nav_white {
