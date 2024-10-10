@@ -23,7 +23,11 @@ body{
     background-color: black;
 }
 
+.nav_img{
+    max-width: 23px;
+}
+
 .nav_element{
     margin: auto;
-    padding: 10px;
+    padding: 15px;
 }
