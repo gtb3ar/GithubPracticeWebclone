@@ -3,13 +3,13 @@ button {
     border-radius: 10px
 }
 
-.filled {
+button .filled {
     color: white;
     background-color: blue;
     border-color: black;
 }
 
-.inverted-fill {
+button .inverted-fill {
     color: blue;
     background-color: white;
     border-color: blue;
