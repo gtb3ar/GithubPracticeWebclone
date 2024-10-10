@@ -1,13 +1,29 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+button {
+    padding: 10px 15px;
+    border-radius: 10px
+}
+
+button .filled {
+    color: white;
+    background-color: blue;
+    border-color: black;
+}
+
+button .inverted-fill {
+    color: blue;
+    background-color: white;
+    border-color: blue;
+}
+
 /* Universal */
 body {
     margin: 0px;
     background-color: black;
 }
-
-
-/*Fonts*/
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
 
 .nav_white {
     text-decoration: none;
